@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064590856818",
+    "project_id": "loginwithotp-f121f",
+    "storage_bucket": "loginwithotp-f121f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064590856818:android:0a274459447d7c450168eb",
+        "android_client_info": {
+          "package_name": "com.kaushal.compleat_one_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAylm-c6z-Fl_zKYaMmXct-b3L6cnKZEFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
